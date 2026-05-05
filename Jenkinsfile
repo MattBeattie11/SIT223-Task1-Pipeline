@@ -1,3 +1,4 @@
+//updating here to test auto trigger
 pipeline {
     agent any
 
