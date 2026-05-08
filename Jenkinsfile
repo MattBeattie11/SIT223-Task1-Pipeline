@@ -1,4 +1,4 @@
-//updating here to test auto trigger
+//This is the resub test a commit
 pipeline {
     agent any
 
